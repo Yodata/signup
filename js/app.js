@@ -1,7 +1,7 @@
 /* ---- CONFIGURATION ----- */
 var DOMAIN = 'https://yodata.me';
-var ACCOUNT_ENDPOINT = '';
-var CERT_ENDPOINT = '';
+var ACCOUNT_ENDPOINT = 'api/accounts/new';
+var CERT_ENDPOINT = 'api/accounts/cert';
 
 /* ---- DON'T EDIT BELOW ---- */
 var accURL = {};
